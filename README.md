@@ -41,6 +41,8 @@ I bring **over 3 years of experience** designing, securing, and scaling cloud in
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?logo=amazonaws)
 ![OCI Architect](https://img.shields.io/badge/Oracle%20Cloud-Infrastructure-F80000?logo=oracle)
+![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
+
 
 ---
 
@@ -49,6 +51,7 @@ I bring **over 3 years of experience** designing, securing, and scaling cloud in
 | Project Name | Tech Stack | Summary |
 |--------------|------------|---------|
 | LAMP-Stack Containerized Application | AWS, Terraform, Docker, Kubernetes, ArgoCD | Deployed a 3-tier LAMP-Stack Application on Cloud |
+| Monolithic Flask Application | AWS, Docker, Terraform, Github Actions | Deployed a containerised 3-tier Flask Applicaiton on Cloud |
 
 Visit my pinned repositories below for source code and detailed documentation.
 
