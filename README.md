@@ -2,7 +2,7 @@
 
 **DevOps Engineer | BI Platform Engineer | Machine Learning Researcher | Data Expert | AI Engineer**
 
-I bring ** 4 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work combines automation, observability, AI, and regulatory compliance to enable businesses to move faster while maintaining the highest standards of resilience and governance.
+I bring **4 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work combines automation, observability, AI, and regulatory compliance to enable businesses to move faster while maintaining the highest standards of resilience and governance.
 
 <!-- <p align="center">
  <h4>🎥 Welcome Video</h4>
