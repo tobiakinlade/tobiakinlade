@@ -39,7 +39,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 
 ## Certifications and Tools
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?logo=amazonaws)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect–Associate-orange?logo=amazonaws)
 ![OCI Architect](https://img.shields.io/badge/Oracle%20Cloud-Infrastructure-F80000?logo=oracle)
 ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
 
