@@ -14,9 +14,9 @@ I bring **over 3 years of experience** designing, securing, and scaling cloud in
  </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
  📌 <em>Click the image above to watch the welcome video to my GitHub portfolio.</em>
-</p>
+</p> -->
 
 <p align="center">
  <a href="https://github.com/tobiakinlade?tab=repositories">
