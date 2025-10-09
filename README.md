@@ -4,7 +4,7 @@
 
 I bring **over 3 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work combines automation, observability, AI, and regulatory compliance to enable businesses to move faster while maintaining the highest standards of resilience and governance.
 
-<p align="center">
+<!-- <p align="center">
  <h4>🎥 Welcome Video</h4>
 </p>
 
@@ -12,7 +12,7 @@ I bring **over 3 years of experience** designing, securing, and scaling cloud in
  <a href="https://youtube.com/shorts/MNdUrMg5CBc?si=lmy3PKnSHggZvZAw" target="_blank">
  <img src="https://img.youtube.com/vi/MNdUrMg5CBc/hqdefault.jpg" alt="Watch the video" width="600">
  </a>
-</p>
+</p> -->
 
 <p align="center">
  📌 <em>Click the image above to watch the welcome video to my GitHub portfolio.</em>
