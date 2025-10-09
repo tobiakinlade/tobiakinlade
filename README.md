@@ -33,7 +33,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 
 
 
-**I specialise in building developer platforms and automation pipelines that reduce risk, cut costs, and support compliance in highly regulated industries, such as defence and e-commerce services. ****
+**I specialise in building developer platforms and automation pipelines that reduce risk, cut costs, and support compliance in highly regulated industries, such as defence and e-commerce services.****
 
 ---
 
