@@ -51,7 +51,8 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 | Project Name | Tech Stack | Summary |
 |--------------|------------|---------|
 | LAMP-Stack Containerized Application | AWS, Terraform, Docker, Kubernetes, ArgoCD | Deployed a 3-tier LAMP-Stack Application on Cloud |
-| Monolithic Flask Application | AWS, Docker, Terraform, Github Actions | Deployed a containerised 3-tier Flask Applicaiton on Cloud |
+| Monolithic Flask Application | AWS, Docker, Terraform, Github Actions | Deployed a containerised 3-tier Flask Application on Cloud |
+| Deploying a Fullstack App on EKS | AWS, Terraform, Kubernetes, Github Actions, GitOps | Deployed a Fullstack JavaScript Application on EKS |
 
 Visit my pinned repositories below for source code and detailed documentation.
 
