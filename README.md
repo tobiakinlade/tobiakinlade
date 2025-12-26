@@ -28,7 +28,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 - **Cloud Platforms**: AWS, Oracle Cloud Infrastructure (multi-cloud and hybrid)
 - **Infrastructure as Code**: Terraform, Cloud Formation, Ansible, Helm
 - **CI/CD Automation**: GitHub Actions, Jenkins, GitLab CI, ArgoCD, Kubernetes
-- **Observability**: Prometheus, Grafana, SolarWinds, Datadog
+- **Observability**: Prometheus, Grafana, SolarWinds, Datadog, Loki
 - **Security & Compliance**: DevSecOps, SonarQube
 
 
@@ -53,6 +53,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 | LAMP-Stack Containerized Application | AWS, Terraform, Docker, Kubernetes, ArgoCD | Deployed a 3-tier LAMP-Stack Application on Cloud |
 | Monolithic Flask Application | AWS, Docker, Terraform, Github Actions | Deployed a containerised 3-tier Flask Application on Cloud |
 | Deploying a Fullstack App on EKS | AWS, Terraform, Kubernetes, Github Actions, GitOps | Deployed a Fullstack JavaScript Application on EKS |
+| Building a Production-Grade Application with HashiCorp Vault on AWS EKS | AWS, Terraform, Kubernetes, Hashicorp Vault, Github Actions, GitOps |
 
 Visit my pinned repositories below for source code and detailed documentation.
 
