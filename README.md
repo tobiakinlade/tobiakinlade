@@ -42,6 +42,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect–Associate-blue?logo=amazonaws)
 ![OCI Architect](https://img.shields.io/badge/Oracle%20Cloud-Infrastructure-F80000?logo=oracle)
 ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
+![Kubernetes and Cloud Native Associate (KCNA)](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-326CE5?logo=kubernetes&logoColor=white)
 
 
 ---
