@@ -28,7 +28,7 @@ I bring **4 years of experience** designing, securing, and scaling cloud infrast
 - **Cloud Platforms**: AWS, Oracle Cloud Infrastructure (multi-cloud and hybrid)
 - **Infrastructure as Code**: Terraform, Cloud Formation, Ansible, Helm
 - **CI/CD Automation**: GitHub Actions, Jenkins, GitLab CI, ArgoCD, Kubernetes
-- **Observability**: Prometheus, Grafana, SolarWinds, Datadog, Loki
+- **Observability**: Prometheus, Grafana, SolarWinds, Datadog, Elastic Search, Logging, Kibana
 - **Security & Compliance**: DevSecOps, SonarQube
 
 
